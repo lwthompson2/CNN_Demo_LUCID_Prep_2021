@@ -11,7 +11,9 @@ Session outline:
 Preparation for the workshop:
 
 •	Watch the following videos:
+
 		https://www.youtube.com/watch?v=aircAruvnKk
+		
 		https://www.youtube.com/watch?v=YRhxdVk_sIs
 
 •	Installation Requirements
@@ -32,7 +34,7 @@ Preparation for the workshop:
 
 •	Pull code from GitHub
 
-    	https://github.com/RaymondDoudlah/LUCID_PREP_NeuralNetworkTalk.git
+    	https://github.com/lwthompson2/CNN_Demo_LUCID_Prep_2021
 
 If you have trouble viewing any of the materials, please let me know (lwthompson@wisc.edu).
 
