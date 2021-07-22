@@ -13,18 +13,23 @@ Preparation for the workshop:
 •	Watch the following videos:
 
 	    https://www.youtube.com/watch?v=aircAruvnKk
+
 		https://www.youtube.com/watch?v=YRhxdVk_sIs
 
 •	Installation Requirements
 
 	    Python https://www.python.org 
+
 	    Pytorch https://pytorch.org/ 
+
 		Numpy
+
 		Matplotlib
 
 •	Read these articles
 
     	https://www.smartsheet.com/neural-network-applications
+		
 		https://towardsdatascience.com/a-gentle-introduction-to-neural-networks-series-part-1-2b90b87795b
 
 •	Pull code from GitHub
