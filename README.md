@@ -12,7 +12,6 @@ Preparation for the workshop:
 
 •	Watch the following videos:
 		https://www.youtube.com/watch?v=aircAruvnKk
-
 		https://www.youtube.com/watch?v=YRhxdVk_sIs
 
 •	Installation Requirements
@@ -22,7 +21,7 @@ Preparation for the workshop:
 	    Pytorch https://pytorch.org/ 
 
 		Numpy
-		
+
 		Matplotlib
 
 •	Read these articles
