@@ -20,8 +20,8 @@ Preparation for the workshop:
 
 	    Python https://www.python.org
 	    Pytorch https://pytorch.org/
-		Numpy
-		Matplotlib
+	Numpy
+	Matplotlib
 
 •	Read these articles
 
