@@ -13,13 +13,12 @@ Preparation for the workshop:
 •	Watch the following videos:
 
 	    https://www.youtube.com/watch?v=aircAruvnKk
-
-	    https://www.youtube.com/watch?v=YRhxdVk_sIs
+		https://www.youtube.com/watch?v=YRhxdVk_sIs
 
 •	Installation Requirements
 
-	    Python https://www.python.org
-	    Pytorch https://pytorch.org/
+	    Python https://www.python.org 
+	    Pytorch https://pytorch.org/ 
 		Numpy
 		Matplotlib
 
